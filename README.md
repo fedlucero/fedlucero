@@ -1,6 +1,6 @@
 ### Federico Lucero - @fedlucero
 
-```
+```js
 const me = {
   name: 'Federico Lucero',
   nickname: 'Chino'
@@ -14,7 +14,7 @@ const me = {
     song: 'Pale blue eyes - The Velvet Underground'
   }
 }
-
+```
 ##Skilset
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,react,firebase,git,github,ai,ps)](https://skillicons.dev)
