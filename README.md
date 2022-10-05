@@ -3,7 +3,7 @@
 ```js
 const me = {
   name: 'Federico Lucero',
-  nickname: 'Chino'
+  nickname: 'Chino',
   age: 30,
   langs: ['Html','Css','JavaScript'],
   likesToDo: ['Coding', 'Generative art', 'Watching series and movies'],
