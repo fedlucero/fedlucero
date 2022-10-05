@@ -1,4 +1,25 @@
-### Hi there 👋
+### Federico Lucero - @fedlucero
+
+```
+const me = {
+  name: 'Federico Lucero',
+  nickname: 'Chino'
+  age: 30,
+  langs: ['Html','Css','JavaScript'],
+  likesToDo: ['Coding', 'Generative art', 'Watching series and movies'],
+  favorite: {
+    food: 'french fries',
+    color: 'black',
+    serie: 'Better call Saul',
+    song: 'Pale blue eyes - The Velvet Underground'
+  }
+}
+
+##Skilset
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,react,firebase,git,github,ai,ps)](https://skillicons.dev)
+
+
 
 <!--
 **fedlucero/fedlucero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
